@@ -6,4 +6,4 @@ Instead of using JSX, components are rendered using standard tagged templates.
 
 ---
 
-Source code is available at [GitHub](https://github.com/simon-robertson/preact-htm-test)
+The application is running at https://simon-robertson.github.io/preact-htm-test/
