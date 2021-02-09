@@ -1,0 +1,10 @@
+{
+    "name": "preact-htm-test",
+    "scripts": {
+        "start": "http-server docs -p 4000 -c--1"
+    },
+    "devDependencies": {
+        "eslint": "7.x"
+    },
+    "private": true
+}

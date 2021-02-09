@@ -1,0 +1,50 @@
+body {
+    margin: 0;
+}
+
+.application {
+    font-family: "Roboto", sans-serif;
+    font-size: 18px;
+    line-height: 1.5;
+}
+
+.application h1 {
+    margin: 0;
+    font-size: 36px;
+    font-weight: 400;
+    line-height: 1;
+}
+
+.application h2 {
+    margin: 0;
+    font-size: 24px;
+    font-weight: 400;
+    line-height: 1;
+}
+
+.application p {
+    margin: 0;
+}
+
+.application-content {
+    padding: 40px 0;
+}
+
+.application-content h2 {
+    margin-bottom: 15px;
+}
+
+.application-header {
+    padding: 40px 0;
+    background-color: rgb(225, 250, 225);
+}
+
+.application-header h1 {
+    margin-bottom: 15px;
+}
+
+.container {
+    margin: 0 auto;
+    padding: 0 20px;
+    max-width: 500px;
+}
