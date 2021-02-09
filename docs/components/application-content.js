@@ -1,4 +1,4 @@
-import { html, useEffect, useState } from "https://unpkg.com/htm/preact/standalone.module.js"
+import { html, useEffect, useState } from "../preact/htm.js"
 
 import { Container } from "./container.js"
 

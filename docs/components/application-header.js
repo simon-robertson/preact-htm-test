@@ -1,4 +1,4 @@
-import { html } from "https://unpkg.com/htm/preact/standalone.module.js"
+import { html } from "../preact/htm.js"
 
 import { Container } from "./container.js"
 

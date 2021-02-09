@@ -1,4 +1,4 @@
-import { html, render } from "https://unpkg.com/htm/preact/standalone.module.js"
+import { html, render } from "./preact/htm.js"
 
 import { Application } from "./components/application.js"
 
